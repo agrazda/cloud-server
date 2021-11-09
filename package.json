@@ -1,0 +1,27 @@
+{
+  "name": "cloud-server",
+  "version": "1.0.0",
+  "description": "## Links to Deloyed Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrazda/cloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/agrazda/cloud-server/issues"
+  },
+  "homepage": "https://github.com/agrazda/cloud-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
